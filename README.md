@@ -1,1 +1,1 @@
-# AIBot
+# promptAI
